@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Jakub! 👋
+
+![g](https://user-images.githubusercontent.com/80849638/232557289-3c0daf69-ef67-47f2-be32-5af862dc8061.png)
 
 <!--
 **junqy/junqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
